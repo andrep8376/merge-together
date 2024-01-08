@@ -1,7 +1,7 @@
 # merge-together
 we
 both
-like
+love
 to
 play
 basketball
